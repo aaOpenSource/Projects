@@ -4,9 +4,14 @@ How to Contribute
 This whole project is about bringing others together to contribute and share code. 
 We really, really want you to pitch in and help us build up a great base of code for all ArchestrA developers.
 
-So, how can you contribute?
+## What can be contributed?
 
-## Existing Projects
+* Any tool, script, or code that is useful to ArchestrA development is welcome. 
+* Any programming language is welcome.
+
+## How can you contribute?
+
+### Existing Projects
 
 * Check out [an existing project](http://aaopensource.org/projects/), try it out, and submit an issue. 
 * If you have a solution, feel free to create a merge request and contribute back in to the code. 
@@ -16,12 +21,8 @@ If you aren't comfortable with merge requests, give us a shout and let's walk th
 Check out [Contributing to Open Source](https://guides.github.com/activities/contributing-to-open-source/#contributing) from
 GitHub to get a nice guide on how to get rolling with issues and pull requests.
 
-### What can be contributed?
 
-* Any tool, script, or code that is useful to ArchestrA development is welcome. 
-* Any programming language is welcome.
-
-## New Projects
+### New Projects
 
 If you have code that is an entirely new project and is unrelated to any of our existing projects, you have two choices:
 
