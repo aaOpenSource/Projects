@@ -6,15 +6,20 @@ We really, really want you to pitch in and help us build up a great base of code
 
 So, how can you contribute?
 
-## Existing Code
+## Existing Projects
 
-* Check out an existing project, try it out, and submit issues back here. 
+* Check out [an existing project](http://aaopensource.org/projects/), try it out, and submit an issue. 
 * If you have a solution, feel free to create a merge request and contribute back in to the code. 
 
 If you aren't comfortable with merge requests, give us a shout and let's walk through it together.
 
 Check out [Contributing to Open Source](https://guides.github.com/activities/contributing-to-open-source/#contributing) from
 GitHub to get a nice guide on how to get rolling with issues and pull requests.
+
+### What can be contributed?
+
+* Any tool, script, or code that is useful to ArchestrA development is welcome. 
+* Any programming language is welcome.
 
 ## New Projects
 
